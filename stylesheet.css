@@ -14,3 +14,10 @@
     right: 10px;
     bottom: 10px;
 }
+
+#slideshow > div img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+}
